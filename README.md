@@ -6,5 +6,5 @@
 # Hungary/Magyar:
 - 👋 Szia, Benji vagyok
 - 👀 Engem a programozás érdekel
-- 🌱 Jelenleg az iskolában programozni tanulok
+- 🌱 Jelenleg az iskolában tanulok programozni
 - 📫 Elérhetőségeim: weboldal: https://benix.vercel.app
