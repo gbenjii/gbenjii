@@ -25,14 +25,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbenjii&" alt="gbenjii" /></p>
 
-
 <div align="center">
-  <a href="https://open.spotify.com/user/Beni">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Beni&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/03de0mj0ya3xytto7mfbpughx?si=bf87e72d5543440e">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=03de0mj0ya3xytto7mfbpughx?si=bf87e72d5543440e&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/gbenjii/count.svg?"  />
