@@ -24,3 +24,34 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbenjii&show_icons=true&locale=en" alt="gbenjii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbenjii&" alt="gbenjii" /></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gbenjii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbenjii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/gbenjii/gbenjii/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Beni">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Beni&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gbenjii/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=gbenjii" alt="Layout with last medium posts"  />
+</div>
+
+###
