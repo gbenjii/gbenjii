@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gbenjii](https://github.com/gbenjii)
 
-- 📫 How to reach me **https://benjii.eu**
+- 📫 How to reach me **https://benjii.eu/contact**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbenjii&label=Profile%20views&color=0e75b6&style=flat"
         alt="gbenjii" /> </p>
 
